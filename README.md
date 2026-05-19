@@ -1,0 +1,3 @@
+# Climate Analaysis Toolkit
+
+This is a set of Python scripts designed to analyse climate data files.
